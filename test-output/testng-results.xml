@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="2" total="14" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Functional_Automation_Test" duration-ms="262615" started-at="2017-10-10T06:39:32Z" finished-at="2017-10-10T06:43:55Z">
+    <groups>
+      <group name="ZIP">
+        <method signature="ConsumerSearch.ConsumerSearchBy_ZIP()[pri:0, instance:testFiles.ConsumerSearch@534a5a98]" name="ConsumerSearchBy_ZIP" class="testFiles.ConsumerSearch"/>
+      </group> <!-- ZIP -->
+      <group name="EmailID">
+        <method signature="ConsumerSearch.ConsumerSearchBy_EmailID()[pri:0, instance:testFiles.ConsumerSearch@534a5a98]" name="ConsumerSearchBy_EmailID" class="testFiles.ConsumerSearch"/>
+      </group> <!-- EmailID -->
+      <group name="PartialFirstName">
+        <method signature="ConsumerSearch.ConsumerSearchBy_PartialFirstName()[pri:0, instance:testFiles.ConsumerSearch@534a5a98]" name="ConsumerSearchBy_PartialFirstName" class="testFiles.ConsumerSearch"/>
+      </group> <!-- PartialFirstName -->
+      <group name="ConsumerSearch">
+        <method signature="ConsumerSearch.ConsumerSearchBy_City()[pri:0, instance:testFiles.ConsumerSearch@534a5a98]" name="ConsumerSearchBy_City" class="testFiles.ConsumerSearch"/>
+        <method signature="ConsumerSearch.ConsumerSearchBy_Country()[pri:0, instance:testFiles.ConsumerSearch@534a5a98]" name="ConsumerSearchBy_Country" class="testFiles.ConsumerSearch"/>
+        <method signature="ConsumerSearch.ConsumerSearchBy_EmailID()[pri:0, instance:testFiles.ConsumerSearch@534a5a98]" name="ConsumerSearchBy_EmailID" class="testFiles.ConsumerSearch"/>
+        <method signature="ConsumerSearch.ConsumerSearchBy_FirstName()[pri:0, instance:testFiles.ConsumerSearch@534a5a98]" name="ConsumerSearchBy_FirstName" class="testFiles.ConsumerSearch"/>
+        <method signature="ConsumerSearch.ConsumerSearchBy_LastName()[pri:0, instance:testFiles.ConsumerSearch@534a5a98]" name="ConsumerSearchBy_LastName" class="testFiles.ConsumerSearch"/>
+        <method signature="ConsumerSearch.ConsumerSearchBy_NagativeSearch()[pri:0, instance:testFiles.ConsumerSearch@534a5a98]" name="ConsumerSearchBy_NagativeSearch" class="testFiles.ConsumerSearch"/>
+        <method signature="ConsumerSearch.ConsumerSearchBy_PartialEmailID()[pri:0, instance:testFiles.ConsumerSearch@534a5a98]" name="ConsumerSearchBy_PartialEmailID" class="testFiles.ConsumerSearch"/>
+        <method signature="ConsumerSearch.ConsumerSearchBy_PartialFirstName()[pri:0, instance:testFiles.ConsumerSearch@534a5a98]" name="ConsumerSearchBy_PartialFirstName" class="testFiles.ConsumerSearch"/>
+        <method signature="ConsumerSearch.ConsumerSearchBy_PartialLastName()[pri:0, instance:testFiles.ConsumerSearch@534a5a98]" name="ConsumerSearchBy_PartialLastName" class="testFiles.ConsumerSearch"/>
+        <method signature="ConsumerSearch.ConsumerSearchBy_PartialPhoneNumber()[pri:0, instance:testFiles.ConsumerSearch@534a5a98]" name="ConsumerSearchBy_PartialPhoneNumber" class="testFiles.ConsumerSearch"/>
+        <method signature="ConsumerSearch.ConsumerSearchBy_PhoneNumber()[pri:0, instance:testFiles.ConsumerSearch@534a5a98]" name="ConsumerSearchBy_PhoneNumber" class="testFiles.ConsumerSearch"/>
+        <method signature="ConsumerSearch.ConsumerSearchBy_State()[pri:0, instance:testFiles.ConsumerSearch@534a5a98]" name="ConsumerSearchBy_State" class="testFiles.ConsumerSearch"/>
+        <method signature="ConsumerSearch.ConsumerSearchBy_Street()[pri:0, instance:testFiles.ConsumerSearch@534a5a98]" name="ConsumerSearchBy_Street" class="testFiles.ConsumerSearch"/>
+        <method signature="ConsumerSearch.ConsumerSearchBy_ZIP()[pri:0, instance:testFiles.ConsumerSearch@534a5a98]" name="ConsumerSearchBy_ZIP" class="testFiles.ConsumerSearch"/>
+      </group> <!-- ConsumerSearch -->
+      <group name="PartialPhoneNumber">
+        <method signature="ConsumerSearch.ConsumerSearchBy_PartialPhoneNumber()[pri:0, instance:testFiles.ConsumerSearch@534a5a98]" name="ConsumerSearchBy_PartialPhoneNumber" class="testFiles.ConsumerSearch"/>
+      </group> <!-- PartialPhoneNumber -->
+      <group name="PartialEmailID">
+        <method signature="ConsumerSearch.ConsumerSearchBy_PartialEmailID()[pri:0, instance:testFiles.ConsumerSearch@534a5a98]" name="ConsumerSearchBy_PartialEmailID" class="testFiles.ConsumerSearch"/>
+      </group> <!-- PartialEmailID -->
+      <group name="FirstName">
+        <method signature="ConsumerSearch.ConsumerSearchBy_FirstName()[pri:0, instance:testFiles.ConsumerSearch@534a5a98]" name="ConsumerSearchBy_FirstName" class="testFiles.ConsumerSearch"/>
+      </group> <!-- FirstName -->
+      <group name="City">
+        <method signature="ConsumerSearch.ConsumerSearchBy_City()[pri:0, instance:testFiles.ConsumerSearch@534a5a98]" name="ConsumerSearchBy_City" class="testFiles.ConsumerSearch"/>
+      </group> <!-- City -->
+      <group name="NagativeSearch">
+        <method signature="ConsumerSearch.ConsumerSearchBy_NagativeSearch()[pri:0, instance:testFiles.ConsumerSearch@534a5a98]" name="ConsumerSearchBy_NagativeSearch" class="testFiles.ConsumerSearch"/>
+      </group> <!-- NagativeSearch -->
+      <group name="PartialLastName">
+        <method signature="ConsumerSearch.ConsumerSearchBy_PartialLastName()[pri:0, instance:testFiles.ConsumerSearch@534a5a98]" name="ConsumerSearchBy_PartialLastName" class="testFiles.ConsumerSearch"/>
+      </group> <!-- PartialLastName -->
+      <group name="State">
+        <method signature="ConsumerSearch.ConsumerSearchBy_State()[pri:0, instance:testFiles.ConsumerSearch@534a5a98]" name="ConsumerSearchBy_State" class="testFiles.ConsumerSearch"/>
+      </group> <!-- State -->
+      <group name="Country">
+        <method signature="ConsumerSearch.ConsumerSearchBy_Country()[pri:0, instance:testFiles.ConsumerSearch@534a5a98]" name="ConsumerSearchBy_Country" class="testFiles.ConsumerSearch"/>
+      </group> <!-- Country -->
+      <group name="PhoneNumber">
+        <method signature="ConsumerSearch.ConsumerSearchBy_PhoneNumber()[pri:0, instance:testFiles.ConsumerSearch@534a5a98]" name="ConsumerSearchBy_PhoneNumber" class="testFiles.ConsumerSearch"/>
+      </group> <!-- PhoneNumber -->
+      <group name="Street">
+        <method signature="ConsumerSearch.ConsumerSearchBy_Street()[pri:0, instance:testFiles.ConsumerSearch@534a5a98]" name="ConsumerSearchBy_Street" class="testFiles.ConsumerSearch"/>
+      </group> <!-- Street -->
+      <group name="LastName">
+        <method signature="ConsumerSearch.ConsumerSearchBy_LastName()[pri:0, instance:testFiles.ConsumerSearch@534a5a98]" name="ConsumerSearchBy_LastName" class="testFiles.ConsumerSearch"/>
+      </group> <!-- LastName -->
+    </groups>
+    <test name="Automation" duration-ms="262615" started-at="2017-10-10T06:39:32Z" finished-at="2017-10-10T06:43:55Z">
+      <class name="testFiles.ConsumerSearch">
+        <test-method status="PASS" signature="ConsumerSearchBy_FirstName()[pri:0, instance:testFiles.ConsumerSearch@534a5a98]" name="ConsumerSearchBy_FirstName" duration-ms="19127" started-at="2017-10-10T12:09:32Z" finished-at="2017-10-10T12:09:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConsumerSearchBy_FirstName -->
+        <test-method status="PASS" signature="ConsumerSearchBy_PartialFirstName()[pri:0, instance:testFiles.ConsumerSearch@534a5a98]" name="ConsumerSearchBy_PartialFirstName" duration-ms="18694" started-at="2017-10-10T12:09:52Z" finished-at="2017-10-10T12:10:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConsumerSearchBy_PartialFirstName -->
+        <test-method status="PASS" signature="ConsumerSearchBy_LastName()[pri:0, instance:testFiles.ConsumerSearch@534a5a98]" name="ConsumerSearchBy_LastName" duration-ms="18623" started-at="2017-10-10T12:10:11Z" finished-at="2017-10-10T12:10:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConsumerSearchBy_LastName -->
+        <test-method status="PASS" signature="ConsumerSearchBy_PartialLastName()[pri:0, instance:testFiles.ConsumerSearch@534a5a98]" name="ConsumerSearchBy_PartialLastName" duration-ms="18549" started-at="2017-10-10T12:10:31Z" finished-at="2017-10-10T12:10:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConsumerSearchBy_PartialLastName -->
+        <test-method status="PASS" signature="ConsumerSearchBy_PhoneNumber()[pri:0, instance:testFiles.ConsumerSearch@534a5a98]" name="ConsumerSearchBy_PhoneNumber" duration-ms="18671" started-at="2017-10-10T12:10:50Z" finished-at="2017-10-10T12:11:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConsumerSearchBy_PhoneNumber -->
+        <test-method status="FAIL" signature="ConsumerSearchBy_PartialPhoneNumber()[pri:0, instance:testFiles.ConsumerSearch@534a5a98]" name="ConsumerSearchBy_PartialPhoneNumber" duration-ms="19429" started-at="2017-10-10T12:11:09Z" finished-at="2017-10-10T12:11:28Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Consumer Record With the searched PhoneNumber [109899] is NOT Found]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Consumer Record With the searched PhoneNumber [109899] is NOT Found
+	at org.testng.Assert.fail(Assert.java:94)
+	at supportFiles.LOG.report_FAIL(LOG.java:55)
+	at pageFiles.ConsumerSearchKeywords.verifyPhoneNumber(ConsumerSearchKeywords.java:79)
+	at testFiles.ConsumerSearch.ConsumerSearchBy_PartialPhoneNumber(ConsumerSearch.java:64)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConsumerSearchBy_PartialPhoneNumber -->
+        <test-method status="PASS" signature="ConsumerSearchBy_EmailID()[pri:0, instance:testFiles.ConsumerSearch@534a5a98]" name="ConsumerSearchBy_EmailID" duration-ms="18718" started-at="2017-10-10T12:11:28Z" finished-at="2017-10-10T12:11:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConsumerSearchBy_EmailID -->
+        <test-method status="PASS" signature="ConsumerSearchBy_PartialEmailID()[pri:0, instance:testFiles.ConsumerSearch@534a5a98]" name="ConsumerSearchBy_PartialEmailID" duration-ms="18637" started-at="2017-10-10T12:11:48Z" finished-at="2017-10-10T12:12:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConsumerSearchBy_PartialEmailID -->
+        <test-method status="PASS" signature="ConsumerSearchBy_Street()[pri:0, instance:testFiles.ConsumerSearch@534a5a98]" name="ConsumerSearchBy_Street" duration-ms="18672" started-at="2017-10-10T12:12:07Z" finished-at="2017-10-10T12:12:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConsumerSearchBy_Street -->
+        <test-method status="FAIL" signature="ConsumerSearchBy_City()[pri:0, instance:testFiles.ConsumerSearch@534a5a98]" name="ConsumerSearchBy_City" duration-ms="19221" started-at="2017-10-10T12:12:26Z" finished-at="2017-10-10T12:12:46Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Consumer Record With the searched Address [Mumbai] is NOT Found]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Consumer Record With the searched Address [Mumbai] is NOT Found
+	at org.testng.Assert.fail(Assert.java:94)
+	at supportFiles.LOG.report_FAIL(LOG.java:55)
+	at pageFiles.ConsumerSearchKeywords.verifyAddress(ConsumerSearchKeywords.java:140)
+	at testFiles.ConsumerSearch.ConsumerSearchBy_City(ConsumerSearch.java:96)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConsumerSearchBy_City -->
+        <test-method status="PASS" signature="ConsumerSearchBy_State()[pri:0, instance:testFiles.ConsumerSearch@534a5a98]" name="ConsumerSearchBy_State" duration-ms="18759" started-at="2017-10-10T12:12:46Z" finished-at="2017-10-10T12:13:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConsumerSearchBy_State -->
+        <test-method status="PASS" signature="ConsumerSearchBy_Country()[pri:0, instance:testFiles.ConsumerSearch@534a5a98]" name="ConsumerSearchBy_Country" duration-ms="18723" started-at="2017-10-10T12:13:05Z" finished-at="2017-10-10T12:13:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConsumerSearchBy_Country -->
+        <test-method status="PASS" signature="ConsumerSearchBy_ZIP()[pri:0, instance:testFiles.ConsumerSearch@534a5a98]" name="ConsumerSearchBy_ZIP" duration-ms="18472" started-at="2017-10-10T12:13:24Z" finished-at="2017-10-10T12:13:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConsumerSearchBy_ZIP -->
+        <test-method status="PASS" signature="ConsumerSearchBy_NagativeSearch()[pri:0, instance:testFiles.ConsumerSearch@534a5a98]" name="ConsumerSearchBy_NagativeSearch" duration-ms="10877" started-at="2017-10-10T12:13:43Z" finished-at="2017-10-10T12:13:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConsumerSearchBy_NagativeSearch -->
+      </class> <!-- testFiles.ConsumerSearch -->
+    </test> <!-- Automation -->
+  </suite> <!-- Functional_Automation_Test -->
+</testng-results>

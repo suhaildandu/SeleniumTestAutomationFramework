@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" name="Functional_Automation_Test" parallel="methods">
+  <parameter name="SiteAddress" value="http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/ "/>
+  <listeners>
+    <listener class-name="supportFiles.TestListener"/>
+  </listeners>
+  <test name="Automation">
+    <classes>
+      <class name="testFiles.ConsumerSearch">
+        <methods>
+          <include name="ConsumerSearchBy_FirstName"/>
+          <include name="ConsumerSearchBy_PartialFirstName"/>
+          <include name="ConsumerSearchBy_LastName"/>
+          <include name="ConsumerSearchBy_PartialLastName"/>
+          <include name="ConsumerSearchBy_PhoneNumber"/>
+          <include name="ConsumerSearchBy_PartialPhoneNumber"/>
+          <include name="ConsumerSearchBy_EmailID"/>
+          <include name="ConsumerSearchBy_PartialEmailID"/>
+          <include name="ConsumerSearchBy_Street"/>
+          <include name="ConsumerSearchBy_City"/>
+          <include name="ConsumerSearchBy_State"/>
+          <include name="ConsumerSearchBy_Country"/>
+          <include name="ConsumerSearchBy_ZIP"/>
+          <include name="ConsumerSearchBy_NagativeSearch"/>
+        </methods>
+      </class> <!-- testFiles.ConsumerSearch -->
+    </classes>
+  </test> <!-- Automation -->
+</suite> <!-- Functional_Automation_Test -->

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="3" guice-stage="DEVELOPMENT" name="Failed suite [CEDRIC_Automation_Test]" parallel="methods">
+  <listeners>
+    <listener class-name="supportFiles.TestListener"/>
+  </listeners>
+  <test name="Automation(failed)" parallel="methods">
+    <groups>
+      <run>
+        <include name="FirstName"/>
+        <include name="LastName"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="testFiles.ConsumerSearch">
+        <methods>
+          <include name="CS_001"/>
+        </methods>
+      </class> <!-- testFiles.ConsumerSearch -->
+    </classes>
+  </test> <!-- Automation(failed) -->
+</suite> <!-- Failed suite [CEDRIC_Automation_Test] -->

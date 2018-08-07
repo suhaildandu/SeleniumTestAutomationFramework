@@ -1,0 +1,961 @@
+2017-09-13 12:44:30,469 - supportFiles.TestListener - INFO - Test [MobileTest001] has started
+2017-09-13 12:44:31,493 - supportFiles.TestListener - INFO - Test [MobileTest002] has started
+2017-09-13 12:47:04,465 - supportFiles.TestListener - INFO - Test [MobileTest001] has started
+2017-09-13 12:47:04,486 - supportFiles.TestListener - INFO - Test [MobileTest002] has started
+2017-09-13 12:51:22,383 - supportFiles.TestListener - INFO - Test [MobileTest001] has started
+2017-09-13 12:55:25,268 - supportFiles.TestListener - INFO - Test [MobileTest002] has started
+2017-09-13 13:02:36,248 - supportFiles.TestListener - INFO - Test [MobileTest001] has started
+2017-09-13 13:06:38,735 - supportFiles.TestListener - INFO - Test [MobileTest002] has started
+2017-10-09 12:53:58,758 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_FirstName] has started
+2017-10-09 12:54:02,645 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PartialLastName] has started
+2017-10-09 12:54:02,866 - ConsumerSearch - INFO - Data [Suhail]Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-09 12:54:06,737 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_LastName] has started
+2017-10-09 12:54:07,099 - ConsumerSearch - INFO - Data [dan]Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-09 12:54:11,271 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PartialFirstName] has started
+2017-10-09 12:54:12,027 - ConsumerSearch - INFO - Data [Dandu]Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-09 12:54:14,108 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_FirstName] has PASSED
+2017-10-09 12:54:15,437 - ConsumerSearch - INFO - Data [Suh]Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-09 12:54:18,347 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PartialLastName] has PASSED
+2017-10-09 12:54:23,281 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_LastName] has PASSED
+2017-10-09 12:54:26,781 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PartialFirstName] has PASSED
+2017-10-09 13:38:43,821 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_City] has started
+2017-10-09 13:38:48,866 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_City] has PASSED
+2017-10-09 13:38:52,731 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_Country] has started
+2017-10-09 13:38:57,815 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_Country] has PASSED
+2017-10-09 13:39:01,642 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_EmailID] has started
+2017-10-09 13:39:06,634 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_EmailID] has PASSED
+2017-10-09 13:39:10,514 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_FirstName] has started
+2017-10-09 13:39:14,799 - ConsumerSearch - INFO - Data [Suhail]Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-09 13:39:26,167 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_FirstName] has PASSED
+2017-10-09 13:39:29,987 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_LastName] has started
+2017-10-09 13:39:34,359 - ConsumerSearch - INFO - Data [Dandu]Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-09 13:39:45,656 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_LastName] has PASSED
+2017-10-09 13:39:49,510 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_NagativeSearch] has started
+2017-10-09 13:39:54,478 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_NagativeSearch] has PASSED
+2017-10-09 13:39:58,910 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PartialEmailID] has started
+2017-10-09 13:40:03,900 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PartialEmailID] has PASSED
+2017-10-09 13:40:07,877 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PartialFirstName] has started
+2017-10-09 13:40:12,146 - ConsumerSearch - INFO - Data [Suh]Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-09 13:40:23,413 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PartialFirstName] has PASSED
+2017-10-09 13:40:27,537 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PartialLastName] has started
+2017-10-09 13:40:32,380 - ConsumerSearch - INFO - Data [dan]Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-09 13:40:43,677 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PartialLastName] has PASSED
+2017-10-09 13:40:47,617 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PartialPhoneNumber] has started
+2017-10-09 13:40:53,283 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PartialPhoneNumber] has PASSED
+2017-10-09 13:40:57,331 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PhoneNumber] has started
+2017-10-09 13:41:02,711 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PhoneNumber] has PASSED
+2017-10-09 13:41:06,601 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_State] has started
+2017-10-09 13:41:11,675 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_State] has PASSED
+2017-10-09 13:41:15,556 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_Street] has started
+2017-10-09 13:41:20,803 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_Street] has PASSED
+2017-10-09 13:41:24,672 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_ZIP] has started
+2017-10-09 13:41:29,865 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_ZIP] has PASSED
+2017-10-09 15:47:03,794 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PhoneNumber] has started
+2017-10-09 15:47:09,001 - ConsumerSearch - INFO - Data [2932206264]Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-09 15:47:11,431 - supportFiles.TestListener - FATAL - Test [ConsumerSearchBy_PhoneNumber] has failed
+java.lang.AssertionError: Consumer Search Record Not Found
+	at org.testng.Assert.fail(Assert.java:94)
+	at supportFiles.LOG.report_FAIL(LOG.java:55)
+	at pageFiles.ConsumerSearchKeywords.verifyPhoneNumber(ConsumerSearchKeywords.java:51)
+	at testFiles.ConsumerSearch.ConsumerSearchBy_PhoneNumber(ConsumerSearch.java:56)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2017-10-09 17:04:34,521 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PhoneNumber] has started
+2017-10-09 17:04:39,201 - ConsumerSearch - INFO - Data [2932206264]Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-09 17:04:50,514 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PhoneNumber] has PASSED
+2017-10-09 17:11:23,037 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PhoneNumber] has started
+2017-10-09 17:11:27,789 - ConsumerSearch - INFO - Data [2932206264]Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-09 17:11:39,216 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PhoneNumber] has PASSED
+2017-10-09 17:32:03,789 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PhoneNumber] has started
+2017-10-09 17:32:08,737 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-09 17:32:08,769 - ConsumerSearch - INFO - Data [2932206264]Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-09 17:32:08,963 - ConsumerSearch - INFO - Entered Search String 2932206264 In Search Text Box
+2017-10-09 17:32:19,122 - ConsumerSearch - INFO - Consumer Record With the searched PhoneNumber [2932206264] is Found
+2017-10-09 17:32:20,416 - ConsumerSearch - INFO - Application Closed
+2017-10-09 17:32:20,417 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PhoneNumber] has PASSED
+2017-10-09 17:37:03,291 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PhoneNumber] has started
+2017-10-09 17:37:07,709 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-09 17:37:07,748 - ConsumerSearch - INFO - Data [2932206264]Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-09 17:37:07,950 - ConsumerSearch - INFO - Entered Search String 2932206264 In Search Text Box
+2017-10-09 17:37:18,089 - ConsumerSearch - INFO - Consumer Record With the searched PhoneNumber [2932206264] is Found
+2017-10-09 17:37:19,111 - ConsumerSearch - INFO - Application Closed
+2017-10-09 17:37:19,112 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PhoneNumber] has PASSED
+2017-10-09 17:37:43,509 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PhoneNumber] has started
+2017-10-09 17:39:20,604 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PhoneNumber] has started
+2017-10-09 17:39:23,890 - com.gargoylesoftware.htmlunit.javascript.StrictErrorReporter - WARN - warning: message=[RHINO USAGE WARNING: Missed Context.javaToJS() conversion:
+Rhino runtime detected object com.gargoylesoftware.htmlunit.ScriptException: TypeError: Cannot read property "get" from undefined (http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/static/js/main.a853a4f4.js#1) of class com.gargoylesoftware.htmlunit.ScriptException where it expected String, Number, Boolean or Scriptable instance. Please check your code for missing Context.javaToJS() call.] sourceName=[https://d2zah9y47r7bi2.cloudfront.net/releases/current/tracker.js] line=[46] lineSource=[null] lineOffset=[0]
+2017-10-09 17:39:23,899 - com.gargoylesoftware.htmlunit.javascript.StrictErrorReporter - ERROR - runtimeError: message=[Java class "com.gargoylesoftware.htmlunit.ScriptException" has no public instance field or method named "message".] sourceName=[https://d2zah9y47r7bi2.cloudfront.net/releases/current/tracker.js] line=[46] lineSource=[null] lineOffset=[0]
+2017-10-09 17:39:23,913 - ConsumerSearch - FATAL - org.openqa.selenium.WebDriverException: com.gargoylesoftware.htmlunit.ScriptException: TypeError: Cannot read property "get" from undefined (http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/static/js/main.a853a4f4.js#1)
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'SUHAILD-W7', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: driver.version: HtmlUnitDriver
+2017-10-09 17:39:23,928 - ConsumerSearch - INFO - Application Closed
+2017-10-09 17:39:23,929 - supportFiles.TestListener - FATAL - Test [ConsumerSearchBy_PhoneNumber] has failed
+java.lang.AssertionError: com.gargoylesoftware.htmlunit.ScriptException: TypeError: Cannot read property "get" from undefined (http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/static/js/main.a853a4f4.js#1)
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T15:28:36.4Z'
+System info: host: 'SUHAILD-W7', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_144'
+Driver info: driver.version: HtmlUnitDriver
+	at org.testng.Assert.fail(Assert.java:94)
+	at supportFiles.LOG.report_ERROR(LOG.java:205)
+	at supportFiles.GenericKeywords.startApplication(GenericKeywords.java:141)
+	at supportFiles.TestListener.onTestStart(TestListener.java:89)
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1695)
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1670)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:615)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2017-10-09 17:40:04,784 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PhoneNumber] has started
+2017-10-09 17:40:05,642 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-09 17:40:05,650 - ConsumerSearch - INFO - Non Test Method: ConsumerSearch.ConsumerSearchBy_PhoneNumber()[pri:0, instance:testFiles.ConsumerSearch@534a5a98] 1397381784
+2017-10-09 17:40:05,662 - ConsumerSearch - INFO - Data [2932206264]Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-09 17:41:08,620 - ConsumerSearch - FATAL - java.lang.NullPointerException
+2017-10-09 17:41:08,638 - ConsumerSearch - INFO - Application Closed
+2017-10-09 17:41:08,641 - supportFiles.TestListener - FATAL - Test [ConsumerSearchBy_PhoneNumber] has failed
+java.lang.AssertionError: null
+	at org.testng.Assert.fail(Assert.java:94)
+	at supportFiles.LOG.report_ERROR(LOG.java:205)
+	at supportFiles.GenericKeywords.enterText(GenericKeywords.java:187)
+	at pageFiles.ConsumerSearchKeywords.enterSearchString(ConsumerSearchKeywords.java:29)
+	at testFiles.ConsumerSearch.ConsumerSearchBy_PhoneNumber(ConsumerSearch.java:55)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2017-10-09 17:43:35,890 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PhoneNumber] has started
+2017-10-09 17:43:36,957 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-09 17:43:36,964 - ConsumerSearch - INFO - Non Test Method: ConsumerSearch.ConsumerSearchBy_PhoneNumber()[pri:0, instance:testFiles.ConsumerSearch@534a5a98] 1397381784
+2017-10-09 17:43:36,977 - ConsumerSearch - INFO - Data [2932206264]Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-09 17:43:47,131 - ConsumerSearch - FATAL - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for supportFiles.GenericKeywords$1@71d14902 (tried for 10 second(s) with 5 SECONDS interval)
+2017-10-09 17:43:47,150 - ConsumerSearch - INFO - Application Closed
+2017-10-09 17:43:47,153 - supportFiles.TestListener - FATAL - Test [ConsumerSearchBy_PhoneNumber] has failed
+java.lang.AssertionError: Expected condition failed: waiting for supportFiles.GenericKeywords$1@71d14902 (tried for 10 second(s) with 5 SECONDS interval)
+	at org.testng.Assert.fail(Assert.java:94)
+	at supportFiles.LOG.report_ERROR(LOG.java:205)
+	at supportFiles.GenericKeywords.getElement(GenericKeywords.java:67)
+	at supportFiles.GenericKeywords.enterText(GenericKeywords.java:179)
+	at pageFiles.ConsumerSearchKeywords.enterSearchString(ConsumerSearchKeywords.java:29)
+	at testFiles.ConsumerSearch.ConsumerSearchBy_PhoneNumber(ConsumerSearch.java:55)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2017-10-09 17:44:32,487 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PhoneNumber] has started
+2017-10-09 17:44:37,407 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-09 17:44:37,418 - ConsumerSearch - INFO - Non Test Method: ConsumerSearch.ConsumerSearchBy_PhoneNumber()[pri:0, instance:testFiles.ConsumerSearch@534a5a98] 1397381784
+2017-10-09 17:44:37,439 - ConsumerSearch - INFO - Data [2932206264]Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-09 17:44:37,596 - ConsumerSearch - INFO - Entered Search String 2932206264 In Search Text Box
+2017-10-09 17:44:47,718 - ConsumerSearch - INFO - Consumer Record With the searched PhoneNumber [2932206264] is Found
+2017-10-09 17:44:48,759 - ConsumerSearch - INFO - Application Closed
+2017-10-09 17:44:48,760 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PhoneNumber] has PASSED
+2017-10-09 17:56:30,513 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PhoneNumber] has started
+2017-10-09 17:56:34,093 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-09 17:56:34,123 - ConsumerSearch - INFO - Data [2932206264] Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-09 17:56:34,277 - ConsumerSearch - INFO - Entered Search String 2932206264 In Search Text Box
+2017-10-09 17:56:44,391 - ConsumerSearch - INFO - Consumer Record With the searched PhoneNumber [2932206264] is Found
+2017-10-09 17:56:45,459 - ConsumerSearch - INFO - Application Closed
+2017-10-09 17:56:45,460 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PhoneNumber] has PASSED
+2017-10-09 17:56:49,302 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PartialPhoneNumber] has started
+2017-10-09 17:56:54,315 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-09 17:56:54,917 - ConsumerSearch - INFO - Application Closed
+2017-10-09 17:56:54,917 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PartialPhoneNumber] has PASSED
+2017-10-09 17:58:11,654 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PhoneNumber] has started
+2017-10-09 17:58:15,505 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-09 17:58:15,539 - ConsumerSearch - INFO - Data [2932206264] Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-09 17:58:15,676 - ConsumerSearch - INFO - Entered Search String 2932206264 In Search Text Box
+2017-10-09 17:58:25,820 - ConsumerSearch - INFO - Consumer Record With the searched PhoneNumber [2932206264] is Found
+2017-10-09 17:58:26,904 - ConsumerSearch - INFO - Application Closed
+2017-10-09 17:58:26,905 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PhoneNumber] has PASSED
+2017-10-09 17:58:30,827 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PartialPhoneNumber] has started
+2017-10-09 17:58:34,587 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-09 17:58:34,606 - ConsumerSearch - INFO - Data [109899] Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-09 17:58:34,740 - ConsumerSearch - INFO - Entered Search String 109899 In Search Text Box
+2017-10-09 17:58:44,860 - ConsumerSearch - INFO - Consumer Record With the searched PhoneNumber [109899] is Found
+2017-10-09 17:58:45,852 - ConsumerSearch - INFO - Application Closed
+2017-10-09 17:58:45,853 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PartialPhoneNumber] has PASSED
+2017-10-09 18:29:39,881 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_Street] has started
+2017-10-09 18:29:44,778 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-09 18:29:44,802 - ConsumerSearch - FATAL - Error in Getting Test Data For Module:[ConsumerSearch]
+***java.lang.NullPointerException
+2017-10-09 18:29:45,520 - ConsumerSearch - INFO - Application Closed
+2017-10-09 18:29:45,522 - supportFiles.TestListener - FATAL - Test [ConsumerSearchBy_Street] has failed
+java.lang.AssertionError: Error in Getting Test Data For Module:[ConsumerSearch]
+***java.lang.NullPointerException
+	at org.testng.Assert.fail(Assert.java:94)
+	at supportFiles.LOG.report_ERROR(LOG.java:232)
+	at supportFiles.TestData.getData(TestData.java:187)
+	at testFiles.ConsumerSearch.ConsumerSearchBy_Street(ConsumerSearch.java:82)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2017-10-09 18:30:17,801 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_Street] has started
+2017-10-09 18:30:22,503 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-09 18:30:22,538 - ConsumerSearch - INFO - Data [MG-Road] Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-09 18:30:22,676 - ConsumerSearch - INFO - Entered Search String [MG-Road] In Search Text Box
+2017-10-09 18:30:22,676 - ConsumerSearch - INFO - Verifying Consumer Search By Address
+2017-10-09 18:30:32,856 - ConsumerSearch - INFO - Clicked Element Successfully
+2017-10-09 18:30:33,514 - ConsumerSearch - INFO - Application Closed
+2017-10-09 18:30:33,515 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_Street] has PASSED
+2017-10-09 19:40:59,432 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_FirstName] has started
+2017-10-09 19:41:02,959 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-09 19:41:02,981 - ConsumerSearch - INFO - Data [Suhail] Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-09 19:41:03,118 - ConsumerSearch - INFO - Entered Search String [Suhail] In Search Text Box
+2017-10-09 19:41:03,118 - ConsumerSearch - INFO - Verifying Consumer Search By Name
+2017-10-09 19:41:04,355 - ConsumerSearch - FATAL - Consumer Record Not Found
+2017-10-09 19:41:05,362 - ConsumerSearch - INFO - Application Closed
+2017-10-09 19:41:05,364 - supportFiles.TestListener - FATAL - Test [ConsumerSearchBy_FirstName] has failed
+java.lang.AssertionError: Consumer Record Not Found
+	at org.testng.Assert.fail(Assert.java:94)
+	at supportFiles.LOG.report_FAIL(LOG.java:55)
+	at pageFiles.ConsumerSearchKeywords.verifyName(ConsumerSearchKeywords.java:41)
+	at testFiles.ConsumerSearch.ConsumerSearchBy_FirstName(ConsumerSearch.java:21)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2017-10-09 19:41:09,254 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PartialFirstName] has started
+2017-10-09 19:41:12,818 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-09 19:41:12,848 - ConsumerSearch - INFO - Data [Suh] Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-09 19:41:12,953 - ConsumerSearch - INFO - Entered Search String [Suh] In Search Text Box
+2017-10-09 19:41:12,954 - ConsumerSearch - INFO - Verifying Consumer Search By Name
+2017-10-09 19:41:13,553 - ConsumerSearch - FATAL - Consumer Record Not Found
+2017-10-09 19:41:14,676 - ConsumerSearch - INFO - Application Closed
+2017-10-09 19:41:14,677 - supportFiles.TestListener - FATAL - Test [ConsumerSearchBy_PartialFirstName] has failed
+java.lang.AssertionError: Consumer Record Not Found
+	at org.testng.Assert.fail(Assert.java:94)
+	at supportFiles.LOG.report_FAIL(LOG.java:55)
+	at pageFiles.ConsumerSearchKeywords.verifyName(ConsumerSearchKeywords.java:41)
+	at testFiles.ConsumerSearch.ConsumerSearchBy_PartialFirstName(ConsumerSearch.java:30)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2017-10-09 19:41:18,862 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_LastName] has started
+2017-10-09 19:41:22,230 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-09 19:41:22,251 - ConsumerSearch - INFO - Data [Dandu] Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-09 19:41:22,388 - ConsumerSearch - INFO - Entered Search String [Dandu] In Search Text Box
+2017-10-09 19:41:22,388 - ConsumerSearch - INFO - Verifying Consumer Search By Name
+2017-10-09 19:41:22,937 - ConsumerSearch - FATAL - Consumer Record Not Found
+2017-10-09 19:41:23,911 - ConsumerSearch - INFO - Application Closed
+2017-10-09 19:41:23,912 - supportFiles.TestListener - FATAL - Test [ConsumerSearchBy_LastName] has failed
+java.lang.AssertionError: Consumer Record Not Found
+	at org.testng.Assert.fail(Assert.java:94)
+	at supportFiles.LOG.report_FAIL(LOG.java:55)
+	at pageFiles.ConsumerSearchKeywords.verifyName(ConsumerSearchKeywords.java:41)
+	at testFiles.ConsumerSearch.ConsumerSearchBy_LastName(ConsumerSearch.java:38)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2017-10-09 19:41:27,788 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PartialLastName] has started
+2017-10-09 19:41:31,301 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-09 19:41:31,317 - ConsumerSearch - INFO - Data [dan] Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-09 19:41:31,440 - ConsumerSearch - INFO - Entered Search String [dan] In Search Text Box
+2017-10-09 19:41:31,440 - ConsumerSearch - INFO - Verifying Consumer Search By Name
+2017-10-09 19:41:32,030 - ConsumerSearch - FATAL - Consumer Record Not Found
+2017-10-09 19:41:33,119 - ConsumerSearch - INFO - Application Closed
+2017-10-09 19:41:33,120 - supportFiles.TestListener - FATAL - Test [ConsumerSearchBy_PartialLastName] has failed
+java.lang.AssertionError: Consumer Record Not Found
+	at org.testng.Assert.fail(Assert.java:94)
+	at supportFiles.LOG.report_FAIL(LOG.java:55)
+	at pageFiles.ConsumerSearchKeywords.verifyName(ConsumerSearchKeywords.java:41)
+	at testFiles.ConsumerSearch.ConsumerSearchBy_PartialLastName(ConsumerSearch.java:48)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2017-10-09 19:41:36,960 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PhoneNumber] has started
+2017-10-09 19:41:40,569 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-09 19:41:40,580 - ConsumerSearch - INFO - Data [2932206264] Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-09 19:41:40,715 - ConsumerSearch - INFO - Entered Search String [2932206264] In Search Text Box
+2017-10-09 19:41:40,716 - ConsumerSearch - INFO - Verifying Consumer Search By Phone
+2017-10-09 19:41:41,776 - ConsumerSearch - FATAL - Consumer Record Not Found
+2017-10-09 19:41:42,737 - ConsumerSearch - INFO - Application Closed
+2017-10-09 19:41:42,738 - supportFiles.TestListener - FATAL - Test [ConsumerSearchBy_PhoneNumber] has failed
+java.lang.AssertionError: Consumer Record Not Found
+	at org.testng.Assert.fail(Assert.java:94)
+	at supportFiles.LOG.report_FAIL(LOG.java:55)
+	at pageFiles.ConsumerSearchKeywords.verifyPhoneNumber(ConsumerSearchKeywords.java:60)
+	at testFiles.ConsumerSearch.ConsumerSearchBy_PhoneNumber(ConsumerSearch.java:56)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2017-10-09 19:41:46,603 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PartialPhoneNumber] has started
+2017-10-09 19:41:50,251 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-09 19:41:50,261 - ConsumerSearch - INFO - Data [109899] Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-09 19:41:50,398 - ConsumerSearch - INFO - Entered Search String [109899] In Search Text Box
+2017-10-09 19:41:50,398 - ConsumerSearch - INFO - Verifying Consumer Search By Phone
+2017-10-09 19:41:51,495 - ConsumerSearch - FATAL - Consumer Record Not Found
+2017-10-09 19:41:52,470 - ConsumerSearch - INFO - Application Closed
+2017-10-09 19:41:52,471 - supportFiles.TestListener - FATAL - Test [ConsumerSearchBy_PartialPhoneNumber] has failed
+java.lang.AssertionError: Consumer Record Not Found
+	at org.testng.Assert.fail(Assert.java:94)
+	at supportFiles.LOG.report_FAIL(LOG.java:55)
+	at pageFiles.ConsumerSearchKeywords.verifyPhoneNumber(ConsumerSearchKeywords.java:60)
+	at testFiles.ConsumerSearch.ConsumerSearchBy_PartialPhoneNumber(ConsumerSearch.java:64)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2017-10-09 19:41:56,381 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_EmailID] has started
+2017-10-09 19:41:59,942 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-09 19:41:59,961 - ConsumerSearch - INFO - Data [suhaild@consumer.com] Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-09 19:42:00,168 - ConsumerSearch - INFO - Entered Search String [suhaild@consumer.com] In Search Text Box
+2017-10-09 19:42:00,168 - ConsumerSearch - INFO - Verifying Consumer Search By Email ID
+2017-10-09 19:42:01,171 - ConsumerSearch - FATAL - Consumer Record Not Found
+2017-10-09 19:42:02,192 - ConsumerSearch - INFO - Application Closed
+2017-10-09 19:42:02,193 - supportFiles.TestListener - FATAL - Test [ConsumerSearchBy_EmailID] has failed
+java.lang.AssertionError: Consumer Record Not Found
+	at org.testng.Assert.fail(Assert.java:94)
+	at supportFiles.LOG.report_FAIL(LOG.java:55)
+	at pageFiles.ConsumerSearchKeywords.verifyEmailID(ConsumerSearchKeywords.java:92)
+	at testFiles.ConsumerSearch.ConsumerSearchBy_EmailID(ConsumerSearch.java:71)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2017-10-09 19:42:06,329 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PartialEmailID] has started
+2017-10-09 19:42:10,475 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-09 19:42:10,486 - ConsumerSearch - INFO - Data [dandus] Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-09 19:42:10,602 - ConsumerSearch - INFO - Entered Search String [dandus] In Search Text Box
+2017-10-09 19:42:10,602 - ConsumerSearch - INFO - Verifying Consumer Search By Email ID
+2017-10-09 19:42:11,313 - ConsumerSearch - FATAL - Consumer Record Not Found
+2017-10-09 19:42:12,273 - ConsumerSearch - INFO - Application Closed
+2017-10-09 19:42:12,273 - supportFiles.TestListener - FATAL - Test [ConsumerSearchBy_PartialEmailID] has failed
+java.lang.AssertionError: Consumer Record Not Found
+	at org.testng.Assert.fail(Assert.java:94)
+	at supportFiles.LOG.report_FAIL(LOG.java:55)
+	at pageFiles.ConsumerSearchKeywords.verifyEmailID(ConsumerSearchKeywords.java:92)
+	at testFiles.ConsumerSearch.ConsumerSearchBy_PartialEmailID(ConsumerSearch.java:80)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2017-10-09 19:42:16,155 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_Street] has started
+2017-10-09 19:42:19,492 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-09 19:42:19,500 - ConsumerSearch - INFO - Data [MG-Road] Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-09 19:42:19,652 - ConsumerSearch - INFO - Entered Search String [MG-Road] In Search Text Box
+2017-10-09 19:42:19,652 - ConsumerSearch - INFO - Verifying Consumer Search By Address
+2017-10-09 19:42:29,764 - ConsumerSearch - INFO - Clicked Element Successfully
+2017-10-09 19:42:29,802 - ConsumerSearch - INFO - Consumer Record With the searched Address [MG-Road] is Found
+2017-10-09 19:42:30,799 - ConsumerSearch - INFO - Application Closed
+2017-10-09 19:42:30,800 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_Street] has PASSED
+2017-10-09 19:42:34,611 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_City] has started
+2017-10-09 19:42:38,209 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-09 19:42:38,228 - ConsumerSearch - INFO - Data [Mumbai] Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-09 19:42:38,379 - ConsumerSearch - INFO - Entered Search String [Mumbai] In Search Text Box
+2017-10-09 19:42:38,379 - ConsumerSearch - INFO - Verifying Consumer Search By Address
+2017-10-09 19:42:48,565 - ConsumerSearch - INFO - Clicked Element Successfully
+2017-10-09 19:42:48,611 - ConsumerSearch - INFO - Consumer Record With the searched Address [Mumbai] is NOT Found
+2017-10-09 19:42:49,579 - ConsumerSearch - INFO - Application Closed
+2017-10-09 19:42:49,579 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_City] has PASSED
+2017-10-09 19:42:53,505 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_State] has started
+2017-10-09 19:42:57,301 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-09 19:42:57,318 - ConsumerSearch - INFO - Data [MAHARASHTRA] Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-09 19:42:57,474 - ConsumerSearch - INFO - Entered Search String [MAHARASHTRA] In Search Text Box
+2017-10-09 19:42:57,474 - ConsumerSearch - INFO - Verifying Consumer Search By Address
+2017-10-09 19:43:07,649 - ConsumerSearch - INFO - Clicked Element Successfully
+2017-10-09 19:43:07,693 - ConsumerSearch - INFO - Consumer Record With the searched Address [MAHARASHTRA] is Found
+2017-10-09 19:43:08,647 - ConsumerSearch - INFO - Application Closed
+2017-10-09 19:43:08,648 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_State] has PASSED
+2017-10-09 19:43:12,509 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_Country] has started
+2017-10-09 19:43:16,126 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-09 19:43:16,134 - ConsumerSearch - INFO - Data [India] Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-09 19:43:16,248 - ConsumerSearch - INFO - Entered Search String [India] In Search Text Box
+2017-10-09 19:43:16,248 - ConsumerSearch - INFO - Verifying Consumer Search By Address
+2017-10-09 19:43:26,401 - ConsumerSearch - INFO - Clicked Element Successfully
+2017-10-09 19:43:26,443 - ConsumerSearch - INFO - Consumer Record With the searched Address [India] is Found
+2017-10-09 19:43:27,421 - ConsumerSearch - INFO - Application Closed
+2017-10-09 19:43:27,422 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_Country] has PASSED
+2017-10-09 19:43:31,257 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_ZIP] has started
+2017-10-09 19:43:35,463 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-09 19:43:35,479 - ConsumerSearch - INFO - Data [IND411014] Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-09 19:43:35,611 - ConsumerSearch - INFO - Entered Search String [IND411014] In Search Text Box
+2017-10-09 19:43:35,611 - ConsumerSearch - INFO - Verifying Consumer Search By Address
+2017-10-09 19:43:45,741 - ConsumerSearch - INFO - Clicked Element Successfully
+2017-10-09 19:43:45,783 - ConsumerSearch - INFO - Consumer Record With the searched Address [IND411014] is Found
+2017-10-09 19:43:46,759 - ConsumerSearch - INFO - Application Closed
+2017-10-09 19:43:46,760 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_ZIP] has PASSED
+2017-10-09 19:43:50,627 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_NagativeSearch] has started
+2017-10-09 19:43:54,890 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-09 19:43:54,910 - ConsumerSearch - INFO - Data [WRONGSEARCH] Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-09 19:43:55,085 - ConsumerSearch - INFO - Entered Search String [WRONGSEARCH] In Search Text Box
+2017-10-09 19:43:55,086 - ConsumerSearch - INFO - Verifying Consumer Search- Negative Scenario
+2017-10-09 19:43:56,358 - ConsumerSearch - INFO - Consumer Record Not Found As Expected
+2017-10-09 19:43:57,327 - ConsumerSearch - INFO - Application Closed
+2017-10-09 19:43:57,328 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_NagativeSearch] has PASSED
+2017-10-09 19:50:07,182 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PartialLastName] has started
+2017-10-09 19:50:10,825 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-09 19:50:10,853 - ConsumerSearch - INFO - Data [dan] Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-09 19:50:11,268 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PhoneNumber] has started
+2017-10-09 19:50:11,285 - ConsumerSearch - INFO - Entered Search String [dan] In Search Text Box
+2017-10-09 19:50:11,285 - ConsumerSearch - INFO - Verifying Consumer Search By Name
+2017-10-09 19:50:15,248 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-09 19:50:15,265 - ConsumerSearch - INFO - Data [2932206264] Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-09 19:50:15,387 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_FirstName] has started
+2017-10-09 19:50:15,483 - ConsumerSearch - INFO - Entered Search String [2932206264] In Search Text Box
+2017-10-09 19:50:15,483 - ConsumerSearch - INFO - Verifying Consumer Search By Phone
+2017-10-09 19:50:19,313 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-09 19:50:19,325 - ConsumerSearch - INFO - Data [Suhail] Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-09 19:50:19,391 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PartialFirstName] has started
+2017-10-09 19:50:19,525 - ConsumerSearch - INFO - Entered Search String [Suhail] In Search Text Box
+2017-10-09 19:50:19,525 - ConsumerSearch - INFO - Verifying Consumer Search By Name
+2017-10-09 19:50:21,347 - ConsumerSearch - INFO - Consumer Record With the Searched Name [dan] is Found
+2017-10-09 19:50:22,660 - ConsumerSearch - INFO - Application Closed
+2017-10-09 19:50:22,660 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PartialLastName] has PASSED
+2017-10-09 19:50:23,447 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_LastName] has started
+2017-10-09 19:50:23,680 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-09 19:50:23,692 - ConsumerSearch - INFO - Data [Suh] Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-09 19:50:23,812 - ConsumerSearch - INFO - Entered Search String [Suh] In Search Text Box
+2017-10-09 19:50:23,813 - ConsumerSearch - INFO - Verifying Consumer Search By Name
+2017-10-09 19:50:25,543 - ConsumerSearch - INFO - Consumer Record With the searched PhoneNumber [2932206264] is Found
+2017-10-09 19:50:26,830 - ConsumerSearch - INFO - Application Closed
+2017-10-09 19:50:26,831 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PhoneNumber] has PASSED
+2017-10-09 19:50:27,464 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-09 19:50:27,478 - ConsumerSearch - INFO - Data [Dandu] Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-09 19:50:27,596 - ConsumerSearch - INFO - Entered Search String [Dandu] In Search Text Box
+2017-10-09 19:50:27,596 - ConsumerSearch - INFO - Verifying Consumer Search By Name
+2017-10-09 19:50:29,614 - ConsumerSearch - INFO - Consumer Record With the Searched Name [Suhail] is Found
+2017-10-09 19:50:30,596 - ConsumerSearch - INFO - Application Closed
+2017-10-09 19:50:30,597 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_FirstName] has PASSED
+2017-10-09 19:50:33,928 - ConsumerSearch - INFO - Consumer Record With the Searched Name [Suh] is Found
+2017-10-09 19:50:33,997 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PartialPhoneNumber] has started
+2017-10-09 19:50:34,906 - ConsumerSearch - INFO - Application Closed
+2017-10-09 19:50:34,907 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PartialFirstName] has PASSED
+2017-10-09 19:50:38,003 - ConsumerSearch - INFO - Consumer Record With the Searched Name [Dandu] is Found
+2017-10-09 19:50:38,111 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PartialEmailID] has started
+2017-10-09 19:50:38,384 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-09 19:50:38,398 - ConsumerSearch - INFO - Data [109899] Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-09 19:50:38,565 - ConsumerSearch - INFO - Entered Search String [109899] In Search Text Box
+2017-10-09 19:50:38,565 - ConsumerSearch - INFO - Verifying Consumer Search By Phone
+2017-10-09 19:50:39,050 - ConsumerSearch - INFO - Application Closed
+2017-10-09 19:50:39,051 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_LastName] has PASSED
+2017-10-09 19:50:42,214 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_EmailID] has started
+2017-10-09 19:50:42,479 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-09 19:50:42,493 - ConsumerSearch - INFO - Data [dandus] Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-09 19:50:42,611 - ConsumerSearch - INFO - Entered Search String [dandus] In Search Text Box
+2017-10-09 19:50:42,611 - ConsumerSearch - INFO - Verifying Consumer Search By Email ID
+2017-10-09 19:50:46,254 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_City] has started
+2017-10-09 19:50:46,519 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-09 19:50:46,543 - ConsumerSearch - INFO - Data [suhaild@consumer.com] Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-09 19:50:46,851 - ConsumerSearch - INFO - Entered Search String [suhaild@consumer.com] In Search Text Box
+2017-10-09 19:50:46,851 - ConsumerSearch - INFO - Verifying Consumer Search By Email ID
+2017-10-09 19:50:48,629 - ConsumerSearch - INFO - Consumer Record With the searched PhoneNumber [109899] is Found
+2017-10-09 19:50:50,167 - ConsumerSearch - INFO - Application Closed
+2017-10-09 19:50:50,168 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PartialPhoneNumber] has PASSED
+2017-10-09 19:50:50,524 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-09 19:50:50,534 - ConsumerSearch - INFO - Data [Mumbai] Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-09 19:50:50,633 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_Street] has started
+2017-10-09 19:50:50,705 - ConsumerSearch - INFO - Entered Search String [Mumbai] In Search Text Box
+2017-10-09 19:50:50,705 - ConsumerSearch - INFO - Verifying Consumer Search By Address
+2017-10-09 19:50:52,658 - ConsumerSearch - INFO - Consumer Record With the searched Email ID [dandus] is Found
+2017-10-09 19:50:54,051 - ConsumerSearch - INFO - Application Closed
+2017-10-09 19:50:54,051 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PartialEmailID] has PASSED
+2017-10-09 19:50:54,592 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-09 19:50:54,601 - ConsumerSearch - INFO - Data [MG-Road] Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-09 19:50:54,645 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_State] has started
+2017-10-09 19:50:54,793 - ConsumerSearch - INFO - Entered Search String [MG-Road] In Search Text Box
+2017-10-09 19:50:54,793 - ConsumerSearch - INFO - Verifying Consumer Search By Address
+2017-10-09 19:50:56,923 - ConsumerSearch - INFO - Consumer Record With the searched Email ID [suhaild@consumer.com] is Found
+2017-10-09 19:50:58,374 - ConsumerSearch - INFO - Application Closed
+2017-10-09 19:50:58,374 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_EmailID] has PASSED
+2017-10-09 19:50:58,596 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_Country] has started
+2017-10-09 19:50:58,873 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-09 19:50:58,880 - ConsumerSearch - INFO - Data [MAHARASHTRA] Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-09 19:50:59,024 - ConsumerSearch - INFO - Entered Search String [MAHARASHTRA] In Search Text Box
+2017-10-09 19:50:59,025 - ConsumerSearch - INFO - Verifying Consumer Search By Address
+2017-10-09 19:51:00,780 - ConsumerSearch - INFO - Clicked Element Successfully
+2017-10-09 19:51:00,852 - ConsumerSearch - INFO - Consumer Record With the searched Address [Mumbai] is NOT Found
+2017-10-09 19:51:02,598 - ConsumerSearch - INFO - Application Closed
+2017-10-09 19:51:02,598 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_City] has PASSED
+2017-10-09 19:51:02,686 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_ZIP] has started
+2017-10-09 19:51:03,281 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-09 19:51:03,291 - ConsumerSearch - INFO - Data [India] Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-09 19:51:03,401 - ConsumerSearch - INFO - Entered Search String [India] In Search Text Box
+2017-10-09 19:51:03,402 - ConsumerSearch - INFO - Verifying Consumer Search By Address
+2017-10-09 19:51:04,953 - ConsumerSearch - INFO - Clicked Element Successfully
+2017-10-09 19:51:04,997 - ConsumerSearch - INFO - Consumer Record With the searched Address [MG-Road] is Found
+2017-10-09 19:51:06,234 - ConsumerSearch - INFO - Application Closed
+2017-10-09 19:51:06,234 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_Street] has PASSED
+2017-10-09 19:51:06,729 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-09 19:51:06,743 - ConsumerSearch - INFO - Data [IND411014] Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-09 19:51:06,836 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_NagativeSearch] has started
+2017-10-09 19:51:06,974 - ConsumerSearch - INFO - Entered Search String [IND411014] In Search Text Box
+2017-10-09 19:51:06,974 - ConsumerSearch - INFO - Verifying Consumer Search By Address
+2017-10-09 19:51:09,120 - ConsumerSearch - INFO - Clicked Element Successfully
+2017-10-09 19:51:09,163 - ConsumerSearch - INFO - Consumer Record With the searched Address [MAHARASHTRA] is Found
+2017-10-09 19:51:10,172 - ConsumerSearch - INFO - Application Closed
+2017-10-09 19:51:10,173 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_State] has PASSED
+2017-10-09 19:51:11,103 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-09 19:51:11,112 - ConsumerSearch - INFO - Data [WRONGSEARCH] Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-09 19:51:11,286 - ConsumerSearch - INFO - Entered Search String [WRONGSEARCH] In Search Text Box
+2017-10-09 19:51:11,287 - ConsumerSearch - INFO - Verifying Consumer Search- Negative Scenario
+2017-10-09 19:51:13,103 - ConsumerSearch - INFO - Consumer Record Not Found As Expected
+2017-10-09 19:51:13,523 - ConsumerSearch - INFO - Clicked Element Successfully
+2017-10-09 19:51:13,571 - ConsumerSearch - INFO - Consumer Record With the searched Address [India] is Found
+2017-10-09 19:51:14,065 - ConsumerSearch - INFO - Application Closed
+2017-10-09 19:51:14,065 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_NagativeSearch] has PASSED
+2017-10-09 19:51:14,539 - ConsumerSearch - INFO - Application Closed
+2017-10-09 19:51:14,539 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_Country] has PASSED
+2017-10-09 19:51:17,174 - ConsumerSearch - INFO - Clicked Element Successfully
+2017-10-09 19:51:17,216 - ConsumerSearch - INFO - Consumer Record With the searched Address [IND411014] is Found
+2017-10-09 19:51:18,368 - ConsumerSearch - INFO - Application Closed
+2017-10-09 19:51:18,369 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_ZIP] has PASSED
+2017-10-09 19:58:15,228 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_City] has started
+2017-10-09 19:58:20,487 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-09 19:58:20,523 - ConsumerSearch - INFO - Data [Mumbai] Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-09 19:58:20,673 - ConsumerSearch - INFO - Entered Search String [Mumbai] In Search Text Box
+2017-10-09 19:58:20,674 - ConsumerSearch - INFO - Verifying Consumer Search By Address
+2017-10-09 19:58:30,872 - ConsumerSearch - INFO - Clicked Element Successfully
+2017-10-09 19:58:30,919 - ConsumerSearch - INFO - Consumer Record With the searched Address [Mumbai] is NOT Found
+2017-10-09 19:58:31,986 - ConsumerSearch - INFO - Application Closed
+2017-10-09 19:58:31,987 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_City] has PASSED
+2017-10-09 20:00:13,765 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_LastName] has started
+2017-10-09 20:00:17,697 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PhoneNumber] has started
+2017-10-09 20:00:18,385 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-09 20:00:18,415 - ConsumerSearch - INFO - Data [Dandu] Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-09 20:00:18,559 - ConsumerSearch - INFO - Entered Search String [Dandu] In Search Text Box
+2017-10-09 20:00:18,559 - ConsumerSearch - INFO - Verifying Consumer Search By Name
+2017-10-09 20:00:21,830 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PartialFirstName] has started
+2017-10-09 20:00:22,821 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-09 20:00:22,833 - ConsumerSearch - INFO - Data [2932206264] Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-09 20:00:22,974 - ConsumerSearch - INFO - Entered Search String [2932206264] In Search Text Box
+2017-10-09 20:00:22,975 - ConsumerSearch - INFO - Verifying Consumer Search By Phone
+2017-10-09 20:00:25,841 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_FirstName] has started
+2017-10-09 20:00:26,892 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-09 20:00:26,913 - ConsumerSearch - INFO - Data [Suh] Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-09 20:00:27,023 - ConsumerSearch - INFO - Entered Search String [Suh] In Search Text Box
+2017-10-09 20:00:27,024 - ConsumerSearch - INFO - Verifying Consumer Search By Name
+2017-10-09 20:00:28,642 - ConsumerSearch - INFO - Consumer Record With the Searched Name [Dandu] is Found
+2017-10-09 20:00:29,889 - ConsumerSearch - INFO - Application Closed
+2017-10-09 20:00:29,889 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_LastName] has PASSED
+2017-10-09 20:00:29,928 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PartialLastName] has started
+2017-10-09 20:00:31,597 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-09 20:00:31,616 - ConsumerSearch - INFO - Data [Suhail] Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-09 20:00:31,826 - ConsumerSearch - INFO - Entered Search String [Suhail] In Search Text Box
+2017-10-09 20:00:31,826 - ConsumerSearch - INFO - Verifying Consumer Search By Name
+2017-10-09 20:00:33,058 - ConsumerSearch - INFO - Consumer Record With the searched PhoneNumber [2932206264] is Found
+2017-10-09 20:00:34,012 - ConsumerSearch - INFO - Application Closed
+2017-10-09 20:00:34,013 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PhoneNumber] has PASSED
+2017-10-09 20:00:34,057 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PartialPhoneNumber] has started
+2017-10-09 20:00:35,023 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-09 20:00:35,037 - ConsumerSearch - INFO - Data [dan] Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-09 20:00:35,155 - ConsumerSearch - INFO - Entered Search String [dan] In Search Text Box
+2017-10-09 20:00:35,155 - ConsumerSearch - INFO - Verifying Consumer Search By Name
+2017-10-09 20:00:37,083 - ConsumerSearch - INFO - Consumer Record With the Searched Name [Suh] is Found
+2017-10-09 20:00:38,047 - ConsumerSearch - INFO - Application Closed
+2017-10-09 20:00:38,048 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PartialFirstName] has PASSED
+2017-10-09 20:00:38,268 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_EmailID] has started
+2017-10-09 20:00:39,262 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-09 20:00:39,271 - ConsumerSearch - INFO - Data [109899] Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-09 20:00:39,408 - ConsumerSearch - INFO - Entered Search String [109899] In Search Text Box
+2017-10-09 20:00:39,408 - ConsumerSearch - INFO - Verifying Consumer Search By Phone
+2017-10-09 20:00:41,925 - ConsumerSearch - INFO - Consumer Record With the Searched Name [Suhail] is Found
+2017-10-09 20:00:42,414 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PartialEmailID] has started
+2017-10-09 20:00:43,074 - ConsumerSearch - INFO - Application Closed
+2017-10-09 20:00:43,074 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_FirstName] has PASSED
+2017-10-09 20:00:43,770 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-09 20:00:43,779 - ConsumerSearch - INFO - Data [suhaild@consumer.com] Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-09 20:00:44,027 - ConsumerSearch - INFO - Entered Search String [suhaild@consumer.com] In Search Text Box
+2017-10-09 20:00:44,027 - ConsumerSearch - INFO - Verifying Consumer Search By Email ID
+2017-10-09 20:00:45,255 - ConsumerSearch - INFO - Consumer Record With the Searched Name [dan] is Found
+2017-10-09 20:00:46,683 - ConsumerSearch - INFO - Application Closed
+2017-10-09 20:00:46,683 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PartialLastName] has PASSED
+2017-10-09 20:00:47,206 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_Street] has started
+2017-10-09 20:00:47,924 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-09 20:00:47,931 - ConsumerSearch - INFO - Data [dandus] Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-09 20:00:48,071 - ConsumerSearch - INFO - Entered Search String [dandus] In Search Text Box
+2017-10-09 20:00:48,071 - ConsumerSearch - INFO - Verifying Consumer Search By Email ID
+2017-10-09 20:00:49,489 - ConsumerSearch - INFO - Consumer Record With the searched PhoneNumber [109899] is Found
+2017-10-09 20:00:50,979 - ConsumerSearch - INFO - Application Closed
+2017-10-09 20:00:50,980 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PartialPhoneNumber] has PASSED
+2017-10-09 20:00:51,226 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_City] has started
+2017-10-09 20:00:52,618 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-09 20:00:52,628 - ConsumerSearch - INFO - Data [MG-Road] Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-09 20:00:52,972 - ConsumerSearch - INFO - Entered Search String [MG-Road] In Search Text Box
+2017-10-09 20:00:52,973 - ConsumerSearch - INFO - Verifying Consumer Search By Address
+2017-10-09 20:00:54,074 - ConsumerSearch - INFO - Consumer Record With the searched Email ID [suhaild@consumer.com] is Found
+2017-10-09 20:00:55,073 - ConsumerSearch - INFO - Application Closed
+2017-10-09 20:00:55,074 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_EmailID] has PASSED
+2017-10-09 20:00:55,316 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_State] has started
+2017-10-09 20:00:56,310 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-09 20:00:56,319 - ConsumerSearch - INFO - Data [Mumbai] Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-09 20:00:56,455 - ConsumerSearch - INFO - Entered Search String [Mumbai] In Search Text Box
+2017-10-09 20:00:56,455 - ConsumerSearch - INFO - Verifying Consumer Search By Address
+2017-10-09 20:00:58,141 - ConsumerSearch - INFO - Consumer Record With the searched Email ID [dandus] is Found
+2017-10-09 20:00:59,208 - ConsumerSearch - INFO - Application Closed
+2017-10-09 20:00:59,209 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PartialEmailID] has PASSED
+2017-10-09 20:00:59,404 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_Country] has started
+2017-10-09 20:01:00,396 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-09 20:01:00,403 - ConsumerSearch - INFO - Data [MAHARASHTRA] Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-09 20:01:00,538 - ConsumerSearch - INFO - Entered Search String [MAHARASHTRA] In Search Text Box
+2017-10-09 20:01:00,538 - ConsumerSearch - INFO - Verifying Consumer Search By Address
+2017-10-09 20:01:03,088 - ConsumerSearch - INFO - Clicked Element Successfully
+2017-10-09 20:01:03,387 - ConsumerSearch - INFO - Matched Address For: [MG-ROAD]
+2017-10-09 20:01:03,387 - ConsumerSearch - INFO - Consumer Record With the searched Address [MG-Road] is Found
+2017-10-09 20:01:03,491 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_ZIP] has started
+2017-10-09 20:01:04,752 - ConsumerSearch - INFO - Application Closed
+2017-10-09 20:01:04,752 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_Street] has PASSED
+2017-10-09 20:01:05,145 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-09 20:01:05,152 - ConsumerSearch - INFO - Data [India] Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-09 20:01:05,290 - ConsumerSearch - INFO - Entered Search String [India] In Search Text Box
+2017-10-09 20:01:05,290 - ConsumerSearch - INFO - Verifying Consumer Search By Address
+2017-10-09 20:01:06,589 - ConsumerSearch - INFO - Clicked Element Successfully
+2017-10-09 20:01:06,643 - ConsumerSearch - FATAL - Consumer Record With the searched Address [Mumbai] is NOT Found
+2017-10-09 20:01:08,050 - ConsumerSearch - INFO - Application Closed
+2017-10-09 20:01:08,051 - supportFiles.TestListener - FATAL - Test [ConsumerSearchBy_City] has failed
+java.lang.AssertionError: Consumer Record With the searched Address [Mumbai] is NOT Found
+	at org.testng.Assert.fail(Assert.java:94)
+	at supportFiles.LOG.report_FAIL(LOG.java:55)
+	at pageFiles.ConsumerSearchKeywords.verifyAddress(ConsumerSearchKeywords.java:140)
+	at testFiles.ConsumerSearch.ConsumerSearchBy_City(ConsumerSearch.java:96)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2017-10-09 20:01:08,693 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-09 20:01:08,702 - ConsumerSearch - INFO - Data [IND411014] Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-09 20:01:08,827 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_NagativeSearch] has started
+2017-10-09 20:01:08,900 - ConsumerSearch - INFO - Entered Search String [IND411014] In Search Text Box
+2017-10-09 20:01:08,900 - ConsumerSearch - INFO - Verifying Consumer Search By Address
+2017-10-09 20:01:10,644 - ConsumerSearch - INFO - Clicked Element Successfully
+2017-10-09 20:01:10,694 - ConsumerSearch - INFO - Matched Address For: [MAHARASHTRA]
+2017-10-09 20:01:10,694 - ConsumerSearch - INFO - Consumer Record With the searched Address [MAHARASHTRA] is Found
+2017-10-09 20:01:11,682 - ConsumerSearch - INFO - Application Closed
+2017-10-09 20:01:11,683 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_State] has PASSED
+2017-10-09 20:01:13,405 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-09 20:01:13,417 - ConsumerSearch - INFO - Data [WRONGSEARCH] Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-09 20:01:13,598 - ConsumerSearch - INFO - Entered Search String [WRONGSEARCH] In Search Text Box
+2017-10-09 20:01:13,598 - ConsumerSearch - INFO - Verifying Consumer Search- Negative Scenario
+2017-10-09 20:01:15,367 - ConsumerSearch - INFO - Consumer Record Not Found As Expected
+2017-10-09 20:01:15,390 - ConsumerSearch - INFO - Clicked Element Successfully
+2017-10-09 20:01:15,434 - ConsumerSearch - INFO - Matched Address For: [INDIA]
+2017-10-09 20:01:15,434 - ConsumerSearch - INFO - Consumer Record With the searched Address [India] is Found
+2017-10-09 20:01:16,678 - ConsumerSearch - INFO - Application Closed
+2017-10-09 20:01:16,679 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_Country] has PASSED
+2017-10-09 20:01:16,694 - ConsumerSearch - INFO - Application Closed
+2017-10-09 20:01:16,694 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_NagativeSearch] has PASSED
+2017-10-09 20:01:19,022 - ConsumerSearch - INFO - Clicked Element Successfully
+2017-10-09 20:01:19,061 - ConsumerSearch - INFO - Matched Address For: [IND411014]
+2017-10-09 20:01:19,061 - ConsumerSearch - INFO - Consumer Record With the searched Address [IND411014] is Found
+2017-10-09 20:01:20,077 - ConsumerSearch - INFO - Application Closed
+2017-10-09 20:01:20,078 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_ZIP] has PASSED
+2017-10-10 12:07:33,776 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_FirstName] has started
+2017-10-10 12:07:37,917 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-10 12:07:37,953 - ConsumerSearch - INFO - Data [Suhail] Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-10 12:07:38,135 - ConsumerSearch - INFO - Entered Search String [Suhail] In Search Text Box
+2017-10-10 12:07:38,136 - ConsumerSearch - INFO - Verifying Consumer Search By Name
+2017-10-10 12:07:48,254 - ConsumerSearch - INFO - Consumer Record With the Searched Name [Suhail] is Found
+2017-10-10 12:07:49,241 - ConsumerSearch - INFO - Application Closed
+2017-10-10 12:07:49,242 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_FirstName] has PASSED
+2017-10-10 12:07:53,110 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PartialFirstName] has started
+2017-10-10 12:07:57,297 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-10 12:07:57,322 - ConsumerSearch - INFO - Data [Suh] Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-10 12:07:57,446 - ConsumerSearch - INFO - Entered Search String [Suh] In Search Text Box
+2017-10-10 12:07:57,446 - ConsumerSearch - INFO - Verifying Consumer Search By Name
+2017-10-10 12:08:07,566 - ConsumerSearch - INFO - Consumer Record With the Searched Name [Suh] is Found
+2017-10-10 12:08:08,618 - ConsumerSearch - INFO - Application Closed
+2017-10-10 12:08:08,619 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PartialFirstName] has PASSED
+2017-10-10 12:08:12,470 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_LastName] has started
+2017-10-10 12:08:16,550 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-10 12:08:16,573 - ConsumerSearch - INFO - Data [Dandu] Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-10 12:08:16,701 - ConsumerSearch - INFO - Entered Search String [Dandu] In Search Text Box
+2017-10-10 12:08:16,701 - ConsumerSearch - INFO - Verifying Consumer Search By Name
+2017-10-10 12:08:26,814 - ConsumerSearch - INFO - Consumer Record With the Searched Name [Dandu] is Found
+2017-10-10 12:08:27,855 - ConsumerSearch - INFO - Application Closed
+2017-10-10 12:08:27,856 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_LastName] has PASSED
+2017-10-10 12:08:31,691 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PartialLastName] has started
+2017-10-10 12:08:35,870 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-10 12:08:35,892 - ConsumerSearch - INFO - Data [dan] Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-10 12:08:36,008 - ConsumerSearch - INFO - Entered Search String [dan] In Search Text Box
+2017-10-10 12:08:36,009 - ConsumerSearch - INFO - Verifying Consumer Search By Name
+2017-10-10 12:08:46,119 - ConsumerSearch - INFO - Consumer Record With the Searched Name [dan] is Found
+2017-10-10 12:08:47,103 - ConsumerSearch - INFO - Application Closed
+2017-10-10 12:08:47,104 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PartialLastName] has PASSED
+2017-10-10 12:08:50,987 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PhoneNumber] has started
+2017-10-10 12:08:55,024 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-10 12:08:55,044 - ConsumerSearch - INFO - Data [2932206264] Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-10 12:08:55,197 - ConsumerSearch - INFO - Entered Search String [2932206264] In Search Text Box
+2017-10-10 12:08:55,197 - ConsumerSearch - INFO - Verifying Consumer Search By Phone
+2017-10-10 12:09:37,218 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_FirstName] has started
+2017-10-10 12:09:41,201 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-10 12:09:41,231 - ConsumerSearch - INFO - Data [Suhail] Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-10 12:09:41,347 - ConsumerSearch - INFO - Entered Search String [Suhail] In Search Text Box
+2017-10-10 12:09:41,347 - ConsumerSearch - INFO - Verifying Consumer Search By Name
+2017-10-10 12:09:51,495 - ConsumerSearch - INFO - Consumer Record With the Searched Name [Suhail] is Found
+2017-10-10 12:09:52,493 - ConsumerSearch - INFO - Application Closed
+2017-10-10 12:09:52,494 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_FirstName] has PASSED
+2017-10-10 12:09:56,406 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PartialFirstName] has started
+2017-10-10 12:10:00,600 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-10 12:10:00,625 - ConsumerSearch - INFO - Data [Suh] Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-10 12:10:00,756 - ConsumerSearch - INFO - Entered Search String [Suh] In Search Text Box
+2017-10-10 12:10:00,756 - ConsumerSearch - INFO - Verifying Consumer Search By Name
+2017-10-10 12:10:10,836 - ConsumerSearch - INFO - Consumer Record With the Searched Name [Suh] is Found
+2017-10-10 12:10:11,812 - ConsumerSearch - INFO - Application Closed
+2017-10-10 12:10:11,812 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PartialFirstName] has PASSED
+2017-10-10 12:10:15,694 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_LastName] has started
+2017-10-10 12:10:19,766 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-10 12:10:19,792 - ConsumerSearch - INFO - Data [Dandu] Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-10 12:10:19,927 - ConsumerSearch - INFO - Entered Search String [Dandu] In Search Text Box
+2017-10-10 12:10:19,928 - ConsumerSearch - INFO - Verifying Consumer Search By Name
+2017-10-10 12:10:30,060 - ConsumerSearch - INFO - Consumer Record With the Searched Name [Dandu] is Found
+2017-10-10 12:10:31,060 - ConsumerSearch - INFO - Application Closed
+2017-10-10 12:10:31,061 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_LastName] has PASSED
+2017-10-10 12:10:34,874 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PartialLastName] has started
+2017-10-10 12:10:38,996 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-10 12:10:39,019 - ConsumerSearch - INFO - Data [dan] Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-10 12:10:39,145 - ConsumerSearch - INFO - Entered Search String [dan] In Search Text Box
+2017-10-10 12:10:39,145 - ConsumerSearch - INFO - Verifying Consumer Search By Name
+2017-10-10 12:10:49,251 - ConsumerSearch - INFO - Consumer Record With the Searched Name [dan] is Found
+2017-10-10 12:10:50,227 - ConsumerSearch - INFO - Application Closed
+2017-10-10 12:10:50,228 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PartialLastName] has PASSED
+2017-10-10 12:10:54,090 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PhoneNumber] has started
+2017-10-10 12:10:58,243 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-10 12:10:58,257 - ConsumerSearch - INFO - Data [2932206264] Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-10 12:10:58,401 - ConsumerSearch - INFO - Entered Search String [2932206264] In Search Text Box
+2017-10-10 12:10:58,401 - ConsumerSearch - INFO - Verifying Consumer Search By Phone
+2017-10-10 12:11:08,494 - ConsumerSearch - INFO - Consumer Record With the searched PhoneNumber [2932206264] is Found
+2017-10-10 12:11:09,514 - ConsumerSearch - INFO - Application Closed
+2017-10-10 12:11:09,515 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PhoneNumber] has PASSED
+2017-10-10 12:11:13,361 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PartialPhoneNumber] has started
+2017-10-10 12:11:17,721 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-10 12:11:17,737 - ConsumerSearch - INFO - Data [109899] Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-10 12:11:17,867 - ConsumerSearch - INFO - Entered Search String [109899] In Search Text Box
+2017-10-10 12:11:17,868 - ConsumerSearch - INFO - Verifying Consumer Search By Phone
+2017-10-10 12:11:27,948 - ConsumerSearch - FATAL - Consumer Record With the searched PhoneNumber [109899] is NOT Found
+2017-10-10 12:11:28,948 - ConsumerSearch - INFO - Application Closed
+2017-10-10 12:11:28,950 - supportFiles.TestListener - FATAL - Test [ConsumerSearchBy_PartialPhoneNumber] has failed
+java.lang.AssertionError: Consumer Record With the searched PhoneNumber [109899] is NOT Found
+	at org.testng.Assert.fail(Assert.java:94)
+	at supportFiles.LOG.report_FAIL(LOG.java:55)
+	at pageFiles.ConsumerSearchKeywords.verifyPhoneNumber(ConsumerSearchKeywords.java:79)
+	at testFiles.ConsumerSearch.ConsumerSearchBy_PartialPhoneNumber(ConsumerSearch.java:64)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2017-10-10 12:11:32,830 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_EmailID] has started
+2017-10-10 12:11:37,014 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-10 12:11:37,026 - ConsumerSearch - INFO - Data [suhaild@consumer.com] Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-10 12:11:37,207 - ConsumerSearch - INFO - Entered Search String [suhaild@consumer.com] In Search Text Box
+2017-10-10 12:11:37,208 - ConsumerSearch - INFO - Verifying Consumer Search By Email ID
+2017-10-10 12:11:47,273 - ConsumerSearch - INFO - Consumer Record With the searched Email ID [suhaild@consumer.com] is Found
+2017-10-10 12:11:48,280 - ConsumerSearch - INFO - Application Closed
+2017-10-10 12:11:48,281 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_EmailID] has PASSED
+2017-10-10 12:11:52,193 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PartialEmailID] has started
+2017-10-10 12:11:56,243 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-10 12:11:56,265 - ConsumerSearch - INFO - Data [dandus] Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-10 12:11:56,425 - ConsumerSearch - INFO - Entered Search String [dandus] In Search Text Box
+2017-10-10 12:11:56,425 - ConsumerSearch - INFO - Verifying Consumer Search By Email ID
+2017-10-10 12:12:06,547 - ConsumerSearch - INFO - Consumer Record With the searched Email ID [dandus] is Found
+2017-10-10 12:12:07,528 - ConsumerSearch - INFO - Application Closed
+2017-10-10 12:12:07,529 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_PartialEmailID] has PASSED
+2017-10-10 12:12:11,349 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_Street] has started
+2017-10-10 12:12:15,550 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-10 12:12:15,569 - ConsumerSearch - INFO - Data [MG-Road] Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-10 12:12:15,695 - ConsumerSearch - INFO - Entered Search String [MG-Road] In Search Text Box
+2017-10-10 12:12:15,695 - ConsumerSearch - INFO - Verifying Consumer Search By Address
+2017-10-10 12:12:25,790 - ConsumerSearch - INFO - Clicked Element Successfully
+2017-10-10 12:12:25,830 - ConsumerSearch - INFO - Matched Address For: [MG-ROAD]
+2017-10-10 12:12:25,830 - ConsumerSearch - INFO - Consumer Record With the searched Address [MG-Road] is Found
+2017-10-10 12:12:26,829 - ConsumerSearch - INFO - Application Closed
+2017-10-10 12:12:26,830 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_Street] has PASSED
+2017-10-10 12:12:30,660 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_City] has started
+2017-10-10 12:12:34,767 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-10 12:12:34,778 - ConsumerSearch - INFO - Data [Mumbai] Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-10 12:12:34,896 - ConsumerSearch - INFO - Entered Search String [Mumbai] In Search Text Box
+2017-10-10 12:12:34,897 - ConsumerSearch - INFO - Verifying Consumer Search By Address
+2017-10-10 12:12:44,999 - ConsumerSearch - INFO - Clicked Element Successfully
+2017-10-10 12:12:45,037 - ConsumerSearch - FATAL - Consumer Record With the searched Address [Mumbai] is NOT Found
+2017-10-10 12:12:46,053 - ConsumerSearch - INFO - Application Closed
+2017-10-10 12:12:46,053 - supportFiles.TestListener - FATAL - Test [ConsumerSearchBy_City] has failed
+java.lang.AssertionError: Consumer Record With the searched Address [Mumbai] is NOT Found
+	at org.testng.Assert.fail(Assert.java:94)
+	at supportFiles.LOG.report_FAIL(LOG.java:55)
+	at pageFiles.ConsumerSearchKeywords.verifyAddress(ConsumerSearchKeywords.java:140)
+	at testFiles.ConsumerSearch.ConsumerSearchBy_City(ConsumerSearch.java:96)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2017-10-10 12:12:49,902 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_State] has started
+2017-10-10 12:12:54,077 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-10 12:12:54,093 - ConsumerSearch - INFO - Data [MAHARASHTRA] Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-10 12:12:54,250 - ConsumerSearch - INFO - Entered Search String [MAHARASHTRA] In Search Text Box
+2017-10-10 12:12:54,250 - ConsumerSearch - INFO - Verifying Consumer Search By Address
+2017-10-10 12:13:04,369 - ConsumerSearch - INFO - Clicked Element Successfully
+2017-10-10 12:13:04,411 - ConsumerSearch - INFO - Matched Address For: [MAHARASHTRA]
+2017-10-10 12:13:04,411 - ConsumerSearch - INFO - Consumer Record With the searched Address [MAHARASHTRA] is Found
+2017-10-10 12:13:05,441 - ConsumerSearch - INFO - Application Closed
+2017-10-10 12:13:05,442 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_State] has PASSED
+2017-10-10 12:13:09,299 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_Country] has started
+2017-10-10 12:13:13,464 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-10 12:13:13,483 - ConsumerSearch - INFO - Data [India] Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-10 12:13:13,627 - ConsumerSearch - INFO - Entered Search String [India] In Search Text Box
+2017-10-10 12:13:13,628 - ConsumerSearch - INFO - Verifying Consumer Search By Address
+2017-10-10 12:13:23,739 - ConsumerSearch - INFO - Clicked Element Successfully
+2017-10-10 12:13:23,776 - ConsumerSearch - INFO - Matched Address For: [INDIA]
+2017-10-10 12:13:23,776 - ConsumerSearch - INFO - Consumer Record With the searched Address [India] is Found
+2017-10-10 12:13:24,763 - ConsumerSearch - INFO - Application Closed
+2017-10-10 12:13:24,764 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_Country] has PASSED
+2017-10-10 12:13:28,571 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_ZIP] has started
+2017-10-10 12:13:32,546 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-10 12:13:32,576 - ConsumerSearch - INFO - Data [IND411014] Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-10 12:13:32,717 - ConsumerSearch - INFO - Entered Search String [IND411014] In Search Text Box
+2017-10-10 12:13:32,717 - ConsumerSearch - INFO - Verifying Consumer Search By Address
+2017-10-10 12:13:42,824 - ConsumerSearch - INFO - Clicked Element Successfully
+2017-10-10 12:13:42,861 - ConsumerSearch - INFO - Matched Address For: [IND411014]
+2017-10-10 12:13:42,862 - ConsumerSearch - INFO - Consumer Record With the searched Address [IND411014] is Found
+2017-10-10 12:13:43,858 - ConsumerSearch - INFO - Application Closed
+2017-10-10 12:13:43,859 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_ZIP] has PASSED
+2017-10-10 12:13:47,663 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_NagativeSearch] has started
+2017-10-10 12:13:52,243 - ConsumerSearch - INFO - Application http://consumersearch-cedric.us-west-2.elasticbeanstalk.com/  is launched
+2017-10-10 12:13:52,251 - ConsumerSearch - INFO - Data [WRONGSEARCH] Fetched from Excel [ConsumerSearch.xlsx]
+2017-10-10 12:13:52,415 - ConsumerSearch - INFO - Entered Search String [WRONGSEARCH] In Search Text Box
+2017-10-10 12:13:52,415 - ConsumerSearch - INFO - Verifying Consumer Search- Negative Scenario
+2017-10-10 12:13:54,361 - ConsumerSearch - INFO - Consumer Record Not Found As Expected
+2017-10-10 12:13:55,355 - ConsumerSearch - INFO - Application Closed
+2017-10-10 12:13:55,356 - supportFiles.TestListener - INFO - Test [ConsumerSearchBy_NagativeSearch] has PASSED
